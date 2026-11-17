@@ -1,0 +1,10 @@
+{
+  "name": "alphacitation-reference",
+  "version": "1.0.0",
+  "description": "Is a medicine approved in a market? US, EU/EEA regulators; others not settled. Not medical advice.",
+  "mcpServers": {
+    "alphacitation": {
+      "httpUrl": "https://alphacitation.com/api/v1/reference/mcp"
+    }
+  }
+}
